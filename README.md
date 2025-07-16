@@ -32,6 +32,8 @@ Each folder in this repo contains:
 
 ## 📁 Current Project
 
+### 1 : DIWALI SALES ANALYSIS(EDA AND VIZULIZATION)
+
 ---
 
 ## 🎯 Objectives
