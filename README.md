@@ -55,7 +55,7 @@ However, if you'd like to contribute or suggest a dataset for analysis, feel fre
 **Pankaj Yadav**  
 📧 pankajyadav2021ii@gmail.com  
 📍 Lucknow, India  
-🔗 [LinkedIn](https://www.linkedin.com/in/pankaj-yadav-590087360/) | [GitHub](https://github.com/)
+🔗 [LinkedIn](https://www.linkedin.com/in/pankaj-yadav-590087360/) | [GitHub](https://github.com/kunjyadav123/EDA_Projects-)
 
 ---
 
